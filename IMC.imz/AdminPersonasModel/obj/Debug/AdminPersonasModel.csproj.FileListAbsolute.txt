@@ -1,0 +1,2 @@
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\IMC\AdminPersonasModel\obj\Debug\AdminPersonasModel.csproj.AssemblyReference.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\IMC\AdminPersonasModel\obj\Debug\AdminPersonasModel.csproj.CoreCompileInputs.cache

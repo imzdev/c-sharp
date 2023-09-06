@@ -1,0 +1,13 @@
+T:\imz6\Programacion Avanzada C#\IMC\IMC\bin\Debug\IMC.exe.config
+T:\imz6\Programacion Avanzada C#\IMC\IMC\bin\Debug\IMC.exe
+T:\imz6\Programacion Avanzada C#\IMC\IMC\bin\Debug\IMC.pdb
+T:\imz6\Programacion Avanzada C#\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+T:\imz6\Programacion Avanzada C#\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+T:\imz6\Programacion Avanzada C#\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+T:\imz6\Programacion Avanzada C#\IMC\IMC\obj\Debug\IMC.exe
+T:\imz6\Programacion Avanzada C#\IMC\IMC\obj\Debug\IMC.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\IMC\IMC\obj\Debug\IMC.exe
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\IMC\IMC\obj\Debug\IMC.pdb
