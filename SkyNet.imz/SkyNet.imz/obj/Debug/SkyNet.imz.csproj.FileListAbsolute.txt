@@ -1,0 +1,22 @@
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe.config
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.pdb
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.dll
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.pdb
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.AssemblyReference.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.SuggestedBindingRedirects.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CoreCompileInputs.cache
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CopyComplete
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.exe
+T:\imz6\Programacion Avanzada C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe.config
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.exe
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNet.imz.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.dll
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\bin\Debug\SkyNetModel.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.AssemblyReference.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.SuggestedBindingRedirects.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CoreCompileInputs.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.csproj.CopyComplete
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.exe
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\SkyNet.imz\SkyNet.imz\obj\Debug\SkyNet.imz.pdb
